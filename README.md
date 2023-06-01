@@ -52,6 +52,3 @@ This project is licensed under the samkelwe wakeni. Feel free to use the code as
 ## Contact
 
 If you have any questions or want to reach out to me, you can contact me at origintech-inc@gmail.com. Thank you for visiting my portfolio!
-
----
-**Note**: Replace oritech-inc and origintech-inc@gmail.com with your GitHub username and email address, respectively. Also, make sure to include relevant screenshots or images in the repository to provide a visual preview of your portfolio.
